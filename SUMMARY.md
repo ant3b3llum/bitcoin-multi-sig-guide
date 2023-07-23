@@ -1,24 +1,30 @@
 # Table of contents
 
-* [👋 My Bitcoin Multisig Guide](README.md)
+* [👋 My Bitcoin Multisig Wallet Guide](README.md)
 
-## Overview
+## 🤔 Planning
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [Hard Requirements and Constraints](planning/hard-requirements-and-constraints.md)
+* [Preferences](planning/preferences.md)
 
-## Product Guides
+## ⚒ Setting it up
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📪 Making a post](setting-it-up/making-a-post.md)
+* [📎 Understanding Projects](setting-it-up/understanding-projects.md)
 
-## Fundamentals
+## ❓ Testing
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠 Getting set up](testing/getting-set-up/README.md)
+  * [📝 Setting permissions](testing/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](testing/getting-set-up/inviting-members.md)
 
-## Use Cases
+## 👷♂ Ongoing Maintenance
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [Private Key Health Checks](ongoing-maintenance/private-key-health-checks.md)
+* [Software Updates](ongoing-maintenance/software-updates.md)
+* [Updating Signing Devices](ongoing-maintenance/updating-signing-devices.md)
+
+## 🔑 How to access my Bitcoin
+
+* [Gathering everything you need](how-to-access-my-bitcoin/gathering-everything-you-need.md)
+* [Page 1](how-to-access-my-bitcoin/page-1.md)
