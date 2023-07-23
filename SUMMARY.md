@@ -4,19 +4,26 @@
 
 ## 🤔 Planning
 
-* [Hard Requirements and Constraints](planning/hard-requirements-and-constraints.md)
+* [Hard Requirements](planning/hard-requirements.md)
 * [Preferences](planning/preferences.md)
+* [Private Key Storage](planning/private-key-storage.md)
+* [Deciding on a required Quorum](planning/deciding-on-a-required-quorum.md)
+* [Deciding which Signing Device to use](planning/deciding-which-signing-device-to-use.md)
+* [Deciding on a Wallet (multi-sig-coordinator)](planning/deciding-on-a-wallet-multi-sig-coordinator.md)
 
 ## ⚒ Setting it up
 
-* [📪 Making a post](setting-it-up/making-a-post.md)
-* [📎 Understanding Projects](setting-it-up/understanding-projects.md)
+* [Setting up Jade](setting-it-up/setting-up-jade.md)
+* [Generating the Private Keys](setting-it-up/generating-the-private-keys.md)
+* [Installing Sparrow](setting-it-up/installing-sparrow.md)
+* [Creating the Wallet in Sparrow](setting-it-up/creating-the-wallet-in-sparrow.md)
+* [Making a test Transaction](setting-it-up/making-a-test-transaction.md)
 
 ## ❓ Testing
 
-* [🛠 Getting set up](testing/getting-set-up/README.md)
-  * [📝 Setting permissions](testing/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](testing/getting-set-up/inviting-members.md)
+* [Re-Creating the Wallet from Scratch](testing/re-creating-the-wallet-from-scratch/README.md)
+  * [Sub step 1](testing/re-creating-the-wallet-from-scratch/sub-step-1.md)
+  * [Sub step 2](testing/re-creating-the-wallet-from-scratch/sub-step-2.md)
 
 ## 👷♂ Ongoing Maintenance
 

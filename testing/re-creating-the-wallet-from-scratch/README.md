@@ -1,4 +1,4 @@
-# 🛠 Getting set up
+# Re-Creating the Wallet from Scratch
 
 <details>
 

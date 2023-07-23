@@ -17,3 +17,9 @@ However, with a multisig wallet, the wallet would be set up with multiple keys b
 This setup makes it harder for a potential attacker to steal the entire wallet. Even if one key is somehow exposed or stolen, the attacker would still need access to the remaining keys to control the funds. This additional layer of complexity provides an extra security measure against single points of failure and unauthorized access.
 
 In essence, a multisig wallet creates a more robust security framework, compared to a traditional single-signature wallet. It reduces the risks associated with a single key being compromised and adds an additional barrier against potential threats.
+
+Links to more information:
+
+* [https://bitcoinmagazine.com/guides/what-is-a-multisignature-wallet](https://bitcoinmagazine.com/guides/what-is-a-multisignature-wallet)
+* [https://www.bitpanda.com/academy/en/lessons/what-are-multi-signature-wallets-and-how-do-they-work/](https://www.bitpanda.com/academy/en/lessons/what-are-multi-signature-wallets-and-how-do-they-work/)
+* [https://www.gemini.com/cryptopedia/what-is-a-multi-sig-wallet-crypto-multi-signature-wallet#section-what-is-a-crypto-wallet](https://www.gemini.com/cryptopedia/what-is-a-multi-sig-wallet-crypto-multi-signature-wallet#section-what-is-a-crypto-wallet)

@@ -1,4 +1,4 @@
-# 📎 Understanding Projects
+# Generating the Private Keys
 
 ## How Projects work
 
