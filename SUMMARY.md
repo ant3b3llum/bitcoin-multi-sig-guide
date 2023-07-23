@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 My Bitcoin Multisig Guide](README.md)
 
 ## Overview
 

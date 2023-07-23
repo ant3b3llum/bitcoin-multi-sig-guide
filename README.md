@@ -1,8 +1,10 @@
-# 👋 Welcome to A Product
+---
+description: >-
+  This is a step-by-step tutorial of how I designed and then set up a Bitcoin
+  multisig cold-storage solution.
+---
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+# 👋 My Bitcoin Multisig Guide
 
 ## Overview
 
