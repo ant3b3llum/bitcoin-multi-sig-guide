@@ -23,8 +23,3 @@
 * [Private Key Health Checks](ongoing-maintenance/private-key-health-checks.md)
 * [Software Updates](ongoing-maintenance/software-updates.md)
 * [Updating Signing Devices](ongoing-maintenance/updating-signing-devices.md)
-
-## 🔑 How to access my Bitcoin
-
-* [Gathering everything you need](how-to-access-my-bitcoin/gathering-everything-you-need.md)
-* [Page 1](how-to-access-my-bitcoin/page-1.md)
